@@ -1,6 +1,6 @@
 <template>
     <div class="min-h-screen bg-gray-100 text-gray-900 flex justify-center">
-        <div class="max-w-screen-xl m-0 sm:m-20 bg-white shadow sm:rounded-lg flex justify-center flex-1">
+        <div class="max-w-screen-xl m-0 sm:m-20 bg-white shadow rounded-lg flex justify-center flex-1">
             <div class="lg:w-1/2 xl:w-5/12 p-6 sm:p-12">
                 <div>
                     <img src="../assets/logo.svg"
@@ -41,7 +41,7 @@
                     </div>
                 </div>
             </div>
-            <div class="flex-1 hidden  bg-[#35495e] text-center  lg:flex justify-center items-center">
+            <div class="flex-1 hidden  bg-[#35495e] text-center rounded-r-lg  lg:flex justify-center items-center">
                <img width="450" src="../assets/undraw_web_shopping_re_owap.svg">
             </div>
         </div>
